@@ -2,4 +2,4 @@
 Hi welcome, this is my profile.
 ok bye now.
 
-[![YOYITsM3M8's github stats](https://github-readme-stats.vercel.app/api?username=YOYITsM3M8)](https://github.com/anuraghazra/github-readme-stats)
+[![YOYITsM3M8's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOYITsM3M8&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats/)
