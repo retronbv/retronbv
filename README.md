@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm retronbv</h1>
 <h3 align="center">A human. or alien</h3>
 
-- 🔭 I’m currently working on [retronhosting](https://github.com/retronhosting/retronhosting) and [Bijou.js](https://github.com/Bijou.js)
+- 🔭 I’m currently working on [retronhosting](https://github.com/retronhosting/retronhosting) and [Bijou.js](https://github.com/Bijou-js)
 
 
 <h3 align="left">Connect with me:</h3>
