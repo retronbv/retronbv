@@ -19,3 +19,5 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bijou-js&repo=bijou.js)](bijou.js.org)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=retronbv&repo=badges)](https://retronbv.github.io/badges)
+
+[![Repl Talk Badge](https://replit-badge.vercel.app/api?id=59324&type=.svg)](https://replit.com/talk/templates/Express-Website-Template/59324)
