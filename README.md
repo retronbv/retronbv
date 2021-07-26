@@ -3,6 +3,9 @@
 
 - 🔭 I’m currently working on [retronhosting](https://github.com/retronhosting/retronhosting) and [Bijou.js](https://github.com/Bijou-js)
 ---
+
+[![Repl Talk Badge](https://replit-badge.vercel.app/api?id=59324&type=.svg&style=flat&theme=dark)](https://replit.com/talk/templates/Express-Website-Template/59324)
+
 [![Profile Visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=retronbv.visitor.badge.reloaded&color=0074aa&style=for-the-badge&logo=github)](https://github.com/retronbv)
 [![GitHub Followers](https://img.shields.io/github/followers/retronbv?color=0074aa&logo=github&style=for-the-badge)](https://github.com/retronbv?tab=followers)
 ![GitHub Issues](https://img.shields.io/github/issues/retronhosting/retronhosting?color=0074aa&logo=github&style=for-the-badge)
@@ -20,4 +23,4 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=retronbv&repo=badges)](https://retronbv.github.io/badges)
 
-[![Repl Talk Badge](https://replit-badge.vercel.app/api?id=59324&type=.svg)](https://replit.com/talk/templates/Express-Website-Template/59324)
+
