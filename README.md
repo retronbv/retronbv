@@ -21,7 +21,6 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=retronhosting&repo=retronhosting)](https://retronbv.github.io)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bijou-js&repo=bijou.js)](bijou.js.org)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=retronbv&repo=badges)](https://retronbv.github.io/badges)
 
