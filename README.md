@@ -1,20 +1,21 @@
-<br/>
-<br/>
-<br/>
-
 <p align="center">
   <img width="100" style="border-radius: 50%" src="https://avatars.githubusercontent.com/u/49005044?v=4">
-</p>
-
-<p align="center">
-  <b>retron</b>
+  <br>
+  <br>
+  <b>retronbv</b>
+  <br>
+  <span style="font-size:10px;!important">Everybody's favorite :potato:</span>
 </p>
 
 <div align="center">
-  <img width="50" src="https://raw.githubusercontent.com/retronbv/retronbv/master/nodejs.png">
-  <img width="60" src="https://raw.githubusercontent.com/retronbv/retronbv/master/replit.png">
-  <img width="70" style="filter: invert(100%);" src="https://raw.githubusercontent.com/retronbv/retronbv/master/github.PNG">
+  <h3>Languages</h3>
+  <img src="https://skillicons.dev/icons?i=js,html,css,swift,nodejs,python,bash,java&perline=4">
+  <h3>Misc</h3>
+  <img src="https://skillicons.dev/icons?i=github,figma,raspberrypi,vscode,cloudflare,firebase,mongodb,flask&perline=4">
+  <h3>Social</h3>
+  <img src="https://skillicons.dev/icons?i=discord">
+  <br/>
+  <br/>
+  <br/>
+  <b>Icons by <a href="https://skillicons.dev">SkillIcons</a></b>
 </div>
-<br/>
-<br/>
-<br/>
