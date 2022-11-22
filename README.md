@@ -9,7 +9,7 @@
 
 <div align="center">
   <h3>Languages</h3>
-  <img src="https://skillicons.dev/icons?i=js,html,css,swift,nodejs,python,bash,java&perline=4">
+  <img src="https://skillicons.dev/icons?i=js,html,css,swift,nodejs,python,java,go&perline=4">
   <h3>Misc</h3>
   <img src="https://skillicons.dev/icons?i=github,figma,raspberrypi,vscode,cloudflare,firebase,mongodb,flask&perline=4">
   <h3>Social</h3>
