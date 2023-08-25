@@ -4,7 +4,7 @@
   <br>
   <b>retronbv</b>
   <br>
-  <span style="font-size:10px;!important">Everybody's favorite :potato:</span>
+  <span style="font-size:10px;!important">Writing code ⚡</span>
 </p>
 
 <div align="center">
